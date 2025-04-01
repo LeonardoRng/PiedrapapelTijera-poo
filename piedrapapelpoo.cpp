@@ -148,7 +148,7 @@ class Visualizador{
 Visualizador::Visualizador(jugador jugador1, jugador jugador2) : j1(jugador1), j2(jugador2) {}
 
 
-
+//cambio
 int main(){
     jugador jugador1;
     jugador jugador2;
